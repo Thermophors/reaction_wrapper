@@ -23,7 +23,7 @@ Serve in a local environment (by default the fastAPI is exposed on port `80`).
 
 # Run reactions 
 
-Example usages of a service are in the [`demo.ipynb`](./demo.ipynb). `demo.ipnb` uses modules from standard library thus additional virtual env or container is not needed.
+Example usages of a service are in the [`demo.ipynb`](./demo.ipynb). `demo.ipynb` uses modules from standard library thus additional virtual env or container is not needed.
 
 
 ## Curl
