@@ -5,7 +5,7 @@ This is a "wrapper" for the rdkit's `rdChemRections.RunReactants` method (https:
 
 The `run_reaction` method is responsible for the generation of products.
 
-Microservice for running the reaction was created using fastAPI and served as a Docker container.
+Microservice `reaction_wrapper` for running the provided reaction was created using fastAPI and served as a Docker container.
 
 
 # Install & serve
